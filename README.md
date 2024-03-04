@@ -23,6 +23,7 @@ Para configurar y ejecutar el entorno de Jupyter Notebook, sigue estas instrucci
 
 ```bash
 docker-compose up
+```
 
 ### Ejecutar notebook con el proyecto
 
