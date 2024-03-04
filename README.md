@@ -23,3 +23,7 @@ Para configurar y ejecutar el entorno de Jupyter Notebook, sigue estas instrucci
 
 ```bash
 docker-compose up
+
+### Ejecutar notebook con el proyecto
+
+Después de haber levantado el archivo docker compose, podrás abrir un  link que te permite abrir un entorno de jupyter notebook, allí encontrarás un notebook llamado  Proyecto MLOps.ipynb. Debes abrir el notebook y así podrás ejecutar este proyecto.
